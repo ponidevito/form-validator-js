@@ -1,6 +1,6 @@
 # Form Validator (JavaScript)
 
-A modern form validation project built with vanilla JavaScript.
+Form validation project built with vanilla JavaScript.
 
 ---
 
