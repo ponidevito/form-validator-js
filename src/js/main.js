@@ -112,7 +112,6 @@ class FormValidator {
     phoneEl?.addEventListener("input", () => this.#validatePhone());
 
     this.form.addEventListener("submit", (e) => {
-      console.log("SUBMIT intercepted");
       e.preventDefault();
       this.submit();
     });
