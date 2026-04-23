@@ -43,9 +43,9 @@ A modern form validation project built with vanilla JavaScript.
 
 ---
 
-## 📸 Preview
+## 🌍 Live Demo
 
-![Preview](./preview.png)
+https://ponidevito.github.io/form-validator-js/
 
 ---
 
